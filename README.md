@@ -4,3 +4,6 @@ A **simple calculator** which performs basic arithemetic operations like **Addit
 
 
 <img width="709" alt="sample" src="https://user-images.githubusercontent.com/59636184/128603859-e9ad97a3-1d94-40b2-8191-18cd827baba8.png">
+
+
+Hosted Site : https://simplecalculator-snehaci.netlify.app/
